@@ -13,5 +13,5 @@ Brand assets and `_brand.yml` for the **Arcadonia Health Department** — a fict
 Consume from another Quarto project via [`quarto use brand`](https://quarto.org/docs/authoring/brand.html):
 
 ```bash
-quarto use brand <path-or-url-to-this-repo>
+quarto use brand cwickham/arcadonia-brand
 ```
