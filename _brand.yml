@@ -21,12 +21,11 @@ color:
   palette:
     forest: "#1f4d2e"
     forest-dark: "#0f2e1a"
-    forest-light: "#4a7a5d"
-    cream: "#efe5d8"
-    cream-dark: "#d9c9b3"
+    forest-light: "#5B9573"
+    cream: "#f5eee8"
     ink: "#1a1a1a"
     rust: "#b8511f"
-  background: "#ffffff"
+  background: cream
   foreground: ink
   primary: forest
   
