@@ -45,7 +45,7 @@ typography:
     weight: 500
     color: primary
   link:
-    color: primary
+    color: forest-light
     decoration: underline
 
 defaults:
